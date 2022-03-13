@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Entry point to the app")
+	fmt.Println("Awesome CLI v0.0.1")
 }
