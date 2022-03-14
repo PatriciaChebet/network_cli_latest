@@ -6,7 +6,7 @@ AWESOME CLI Project
 If you want to run this application locally then run this command:
 
 ```BASH
-$go run main.fo
+$go run main.go
 ```
 
 ##BUILD APPLICATION
